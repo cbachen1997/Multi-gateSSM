@@ -11,6 +11,7 @@ Main dependent library version
 Read.me
 ====
 ###     1_ROI2Patches:Generating dataset of patches based on sample points from the roi image.
-###     2_divideDataset 数据集划分
-###     3_Training 模型训练（包括全监督和多门控SSM）
-###     4_getMap 大图切分为子图预测与预测结果拼接为大图并保存结果。
+###     2_divideDataset: Organizing the dataset.
+###     3_Training: Model Traning(including supervised method and multi-gate semi-supervised method)
+###     4_getMap:1)Dividing larger imagery into series of small imagery; 2)Mosaicking the prediction maps.
+大图切分为子图预测与预测结果拼接为大图并保存结果。
