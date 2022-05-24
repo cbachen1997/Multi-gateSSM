@@ -14,4 +14,3 @@ Read.me
 ###     2_divideDataset: Organizing the dataset.
 ###     3_Training: Model Traning(including supervised method and multi-gate semi-supervised method)
 ###     4_getMap:1)Dividing larger imagery into series of small imagery; 2)Mosaicking the prediction maps.
-大图切分为子图预测与预测结果拼接为大图并保存结果。
