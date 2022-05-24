@@ -7,7 +7,7 @@ Main dependent library version
 ###     keras==2.3.1
 ###     h5py==2.10.0
 
-文件说明：
+
 Read.me
 ====
 ###     1_ROI2Patches:Generating dataset of patches based on sample points from the roi image.
